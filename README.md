@@ -256,7 +256,13 @@ I'm an AI engineer with a strong foundation in ML and modern LLM tooling, focuse
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Saloni468kumari&theme=tokyonight&no-frame=true&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+| Achievement | Status |
+|:---:|:---:|
+| 🌊 Pull Shark | Working toward it — open PRs |
+| ⚡ Quickdraw | Close an issue within 5 min of opening |
+| 🦈 YOLO | Merge a PR without a review |
+| 🌟 Starstruck | Get 16 stars on a repo |
+| 👥 Pair Extraordinaire | Co-authored commits |
 
 </div>
 
