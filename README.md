@@ -233,7 +233,6 @@ I'm an AI engineer with a strong foundation in ML and modern LLM tooling, focuse
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saloni468kumari&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=8b5cf6&icon_color=8b5cf6&text_color=c9d1d9" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saloni468kumari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&langs_count=8" />
 
 </div>
@@ -247,22 +246,6 @@ I'm an AI engineer with a strong foundation in ML and modern LLM tooling, focuse
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=salonikumari&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=8b5cf6&line=8b5cf6&point=a855f7)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-| Achievement | Status |
-|:---:|:---:|
-| 🌊 Pull Shark | Working toward it — open PRs |
-| ⚡ Quickdraw | Close an issue within 5 min of opening |
-| 🦈 YOLO | Merge a PR without a review |
-| 🌟 Starstruck | Get 16 stars on a repo |
-| 👥 Pair Extraordinaire | Co-authored commits |
 
 </div>
 
