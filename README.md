@@ -17,6 +17,7 @@
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)](https://huggingface.co/salonikumari)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saloni468kumari@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/saloni_04/)
+<br/>
 ![Profile Views](https://komarev.com/ghpvc/?username=Saloni468kumari&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
